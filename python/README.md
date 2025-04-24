@@ -4,14 +4,16 @@ Este repositório contém soluções para problemas de estruturas de dados e alg
 
 ## ✅ Problemas resolvidos
 
-| #     | Título                                      | Dificuldade | Python |
-|-------|---------------------------------------------|-------------|--------|
-| 0143 | Kids With the Greatest Number of Candies     | Easy        | ✅     |
-| 0605 | Can Place Flowers                            | Easy        | ✅     |
-| 0151 | Reverse Words in a String                    | Medium      | ✅     |
-| 0238 | Product of Array Except Self                 | Medium      | ✅     |
-| 1768 | Merge Strings Alternately                    | Easy        | ✅     |
-| 1071 | Greatest Common Divisor of Strings           | Easy        | ✅     |
+| #    | Título                                   | Dificuldade | Python |
+|------|------------------------------------------|-------------|--------|
+| 0143 | Kids With the Greatest Number of Candies | Easy        | ✅     |
+| 0605 | Can Place Flowers                        | Easy        | ✅     |
+| 0151 | Reverse Words in a String                | Medium      | ✅     |
+| 0238 | Product of Array Except Self             | Medium      | ✅     |
+| 1768 | Merge Strings Alternately                | Easy        | ✅     |
+| 1071 | Greatest Common Divisor of Strings       | Easy        | ✅     |
+| 0334 | Increasing Triplet Subsequence           | Medium      | ✅     |
+| 0443 | String Compression                       | Medium      | ✅     |
 
 ## 📌 Objetivos
 
