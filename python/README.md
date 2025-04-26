@@ -4,17 +4,18 @@ Este repositório contém soluções para problemas de estruturas de dados e alg
 
 ## ✅ Problemas resolvidos
 
-| #    | Título                                   | Dificuldade | Python |
-|------|------------------------------------------|-------------|--------|
-| 0143 | Kids With the Greatest Number of Candies | Easy        | ✅     |
-| 0605 | Can Place Flowers                        | Easy        | ✅     |
-| 0151 | Reverse Words in a String                | Medium      | ✅     |
-| 0238 | Product of Array Except Self             | Medium      | ✅     |
-| 1768 | Merge Strings Alternately                | Easy        | ✅     |
-| 1071 | Greatest Common Divisor of Strings       | Easy        | ✅     |
-| 0334 | Increasing Triplet Subsequence           | Medium      | ✅     |
-| 0443 | String Compression                       | Medium      | ✅     |
-
+| #    | Título                                   | Dificuldade | Técnica      | Python |
+|------|------------------------------------------|-------------|--------------|--------|
+| 0143 | Kids With the Greatest Number of Candies | Easy        | Array/String | ✅      |
+| 0605 | Can Place Flowers                        | Easy        | Array/String | ✅      |
+| 0151 | Reverse Words in a String                | Medium      | Array/String | ✅      
+| 0238 | Product of Array Except Self             | Medium      | Array/String | ✅      
+| 1768 | Merge Strings Alternately                | Easy        | Array/String | ✅      
+| 1071 | Greatest Common Divisor of Strings       | Easy        | Array/String | ✅      
+| 0334 | Increasing Triplet Subsequence           | Medium      | Array/String | ✅      
+| 0443 | String Compression                       | Medium      | Array/String | ✅      
+| 0283 | Move Zeroes                              | Easy        | Two Pointers | ✅      
+| 0392 | Is Subsequence                           | Easy        | Two Pointers | ✅      
 ## 📌 Objetivos
 
 - 🧠 Aprimorar raciocínio lógico e resolução de problemas.
