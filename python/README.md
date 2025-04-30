@@ -19,7 +19,9 @@ Este repositório contém soluções para problemas de estruturas de dados e alg
 | 0011 | Container With Most Water                               | Medium      | Two Pointers   | ✅      |
 | 1679 | Max Number of K-Sum Pairs                               | Medium      | Two Pointers   | ✅      |
 | 0643 | Maximum Average Subarray I                              | Easy        | Sliding Window | ✅      |
-| 1456 | Maximum Number of Vowels in a Substring of Given Length | Easy        | Sliding Window | ✅      |
+| 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium      | Sliding Window | ✅      |
+| 1004 | Max Consecutive Ones III                                | Medium      | Sliding Window | ✅      |
+| 1493 | Longest Subarray of 1's After Deleting One Element      | Medium      | Sliding Window | ✅      |
 
 
 ## 📌 Objetivos
