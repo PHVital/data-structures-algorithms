@@ -22,6 +22,8 @@ Este repositório contém soluções para problemas de estruturas de dados e alg
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium      | Sliding Window | ✅      |
 | 1004 | Max Consecutive Ones III                                | Medium      | Sliding Window | ✅      |
 | 1493 | Longest Subarray of 1's After Deleting One Element      | Medium      | Sliding Window | ✅      |
+| 1732 | Find the Highest Altitude                               | Easy        | Prefix Sum     | ✅      |
+| 0724 | Find Pivot Index                                        | Easy        | Prefix Sum     | ✅      |
 
 
 ## 📌 Objetivos
