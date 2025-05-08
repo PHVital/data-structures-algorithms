@@ -26,6 +26,8 @@ Este repositório contém soluções para problemas de estruturas de dados e alg
 | 0724 | Find Pivot Index                                        | Easy        | Prefix Sum      | ✅      |
 | 2215 | Find the Difference of Two Arrays                       | Easy        | Hash Map / Set  | ✅      |
 | 1207 | Unique Number of Occurrences                            | Easy        | Hash Map / Set  | ✅      |
+| 1657 | Determine if Two Strings Are Close                      | Medium      | Hash Map / Set  | ✅      |
+| 2352 | Equal Row and Column Pairs                              | Medium      | Hash Map / Set  | ✅      |
 
 
 ## 📌 Objetivos
