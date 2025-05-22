@@ -30,6 +30,8 @@ Este repositório contém soluções para problemas de estruturas de dados e alg
 | 2352 | Equal Row and Column Pairs                              | Medium      | Hash Map / Set | ✅      |
 | 2390 | Removing Stars From a String                            | Medium      | Stack          | ✅      |
 | 0735 | Asteroid Collision                                      | Medium      | Stack          | ✅      |
+| 0394 | Decode String                                           | Medium      | Stack          | ✅      |
+| 0933 | Number of Recent Calls                                  | Easy        | Queue          | ✅      |
 
 
 ## 📌 Objetivos
