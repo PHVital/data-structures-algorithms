@@ -32,6 +32,9 @@ Este repositório contém soluções para problemas de estruturas de dados e alg
 | 0735 | Asteroid Collision                                      | Medium      | Stack          | ✅      |
 | 0394 | Decode String                                           | Medium      | Stack          | ✅      |
 | 0933 | Number of Recent Calls                                  | Easy        | Queue          | ✅      |
+| 0649 | Dota2 Senate                                            | Medium      | Queue          | ✅      |
+| 2095 | Delete the Middle Node of a Linked List                 | Medium      | Linked List    | ✅      |
+| 0328 | Odd Even Linked List                                    | Medium      | Linked List    | ✅      |
 
 
 ## 📌 Objetivos
