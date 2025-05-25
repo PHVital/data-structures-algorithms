@@ -35,7 +35,8 @@ Este repositório contém soluções para problemas de estruturas de dados e alg
 | 0649 | Dota2 Senate                                            | Medium      | Queue          | ✅      |
 | 2095 | Delete the Middle Node of a Linked List                 | Medium      | Linked List    | ✅      |
 | 0328 | Odd Even Linked List                                    | Medium      | Linked List    | ✅      |
-
+| 0206 | Reverse Linked List                                     | Easy        | Linked List    | ✅      |
+| 2130 | Maximum Twin Sum of a Linked List                       | Medium      | Linked List    | ✅      |
 
 ## 📌 Objetivos
 
